@@ -1,4 +1,4 @@
-# PDF Seçici ve API Gönderme Uygulaması
+# Seçilen PDF'yi Base64 Formatında API'ye Gönderme
 
 Bu Flutter tabanlı mobil uygulama, kullanıcının cihazından bir PDF dosyası seçmesini ve ardından bu dosyasının belirli bir API'ye Base64 formatında gönderilmesini sağlar. Uygulama ayrıca seçilen PDF dosyasının 5MB sınırını aşmamasını garanti eder.
 
